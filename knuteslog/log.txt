@@ -1,6 +1,0 @@
-apr. 20, 2021 3:57:59 EM knuteslog.LogTest <init>
-INFO: My first log
-apr. 20, 2021 3:57:59 EM knuteslog.LogTest <init>
-INFO: This is
-apr. 20, 2021 3:57:59 EM knuteslog.LogTest <init>
-ALLVARLIG: This is an error message
