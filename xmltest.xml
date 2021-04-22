@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<leads>
+	<lead>
+		<name>Herman</name>
+		<address>adressinfo</address>
+		<zip>12345</zip>
+		<city>karlstad</city>
+		<contact>Lovisa</contact>
+		<tele>1234654</tele>
+		<size>12321</size>
+		<current_provider>current_provider</current_provider>
+		<email>asdf@gmail.com</email>
+	</lead>
+	<lead>
+		<name>Herman</name>
+		<address>adressinfo</address>
+		<zip>12345</zip>
+		<city>karlstad</city>
+		<contact>Lovisa</contact>
+		<tele>1234654</tele>
+		<size>12321</size>
+		<current_provider>current_provider</current_provider>
+		<email>asdf@gmail.com</email>
+	</lead>
+	<lead>
+		<name>Herman</name>
+		<address>adressinfo</address>
+		<zip>12345</zip>
+		<city>karlstad</city>
+		<contact>Lovisa</contact>
+		<tele>1234654</tele>
+		<size>12321</size>
+		<current_provider>current_provider</current_provider>
+		<email>asdf@gmail.com</email>
+	</lead>
+</leads>
