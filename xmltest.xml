@@ -2,7 +2,7 @@
 
 <leads>
 	<lead>
-		<name>Herman</name>
+		<name></name>
 		<address>adressinfo</address>
 		<zip>12345</zip>
 		<city>karlstad</city>
@@ -14,7 +14,7 @@
 	</lead>
 	<lead>
 		<name>Lovisa</name>
-		<address>adressinfo</address>
+		<address></address>
 		<zip>12345</zip>
 		<city>karlstad</city>
 		<contact>Lovisa</contact>
@@ -26,9 +26,31 @@
 	<lead>
 		<name>Asdf</name>
 		<address>adressinfo</address>
-		<zip>12345</zip>
+		<zip></zip>
 		<city>karlstad</city>
 		<contact>Lovisa</contact>
+		<tele>1234654</tele>
+		<size>12321</size>
+		<current_provider>current_provider</current_provider>
+		<email>asdf@gmail.com</email>
+	</lead>
+		<lead>
+		<name>Asdf</name>
+		<address>adressinfo</address>
+		<zip>12345</zip>
+		<city></city>
+		<contact>Lovisa</contact>
+		<tele>1234654</tele>
+		<size>12321</size>
+		<current_provider>current_provider</current_provider>
+		<email>asdf@gmail.com</email>
+	</lead>
+	<lead>
+		<name>Asdf</name>
+		<address>adressinfo</address>
+		<zip>12345</zip>
+		<city>asdadsadsa</city>
+		<contact></contact>
 		<tele>1234654</tele>
 		<size>12321</size>
 		<current_provider>current_provider</current_provider>
