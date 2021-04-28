@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <leads>
-	<lead>
+	<lead id="00001">
 		<name></name>
 		<address>adressinfo</address>
 		<zip>12345</zip>
@@ -12,7 +12,7 @@
 		<current_provider>current_provider</current_provider>
 		<email>asdf@gmail.com</email>
 	</lead>
-	<lead>
+	<lead id="00002">
 		<name>Lovisa</name>
 		<address></address>
 		<zip>12345</zip>
@@ -23,7 +23,7 @@
 		<current_provider>current_provider</current_provider>
 		<email>asdf@gmail.com</email>
 	</lead>
-	<lead>
+	<lead id="00003">
 		<name>Asdf</name>
 		<address>adressinfo</address>
 		<zip></zip>
@@ -33,7 +33,7 @@
 		<size>12321</size>
 		<current_provider>current_provider</current_provider>
 		<email>asdf@gmail.com</email>
-	</lead>
+	</lead id="00004">
 		<lead>
 		<name>Asdf</name>
 		<address>adressinfo</address>
@@ -45,7 +45,7 @@
 		<current_provider>current_provider</current_provider>
 		<email>asdf@gmail.com</email>
 	</lead>
-	<lead>
+	<lead id="00005">
 		<name>Asdf</name>
 		<address>adressinfo</address>
 		<zip>12345</zip>
@@ -56,7 +56,7 @@
 		<current_provider>current_provider</current_provider>
 		<email>asdf@gmail.com</email>
 	</lead>
-	<lead>
+	<lead id="00006">
 		<name>Asdf</name>
 		<address>adressinfo</address>
 		<zip>12345</zip>
@@ -67,7 +67,7 @@
 		<current_provider>current_provider</current_provider>
 		<email>asdf@gmail.com</email>
 	</lead>
-	<lead>
+	<lead id="00007">
 		<name>AsdfØØØØ</name>
 		<address>adressinfo</address>
 		<zip>12345</zip>
@@ -78,7 +78,7 @@
 		<current_provider>current_provider</current_provider>
 		<email>asdf@gmail.com</email>
 	</lead>
-	<lead>
+	<lead id="00008">
 		<name>AsdfOKADSKOAsdfOKADSKOAsdfOKADSKOAsdfOKADSKO</name>
 		<address>adressinfo</address>
 		<zip>12345</zip>
