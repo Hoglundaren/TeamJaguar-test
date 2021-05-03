@@ -101,7 +101,7 @@
 		<email>asdf@gmail.com</email>
 	</lead>
 	<lead id="000010">
-		<name>AsdfO</name>
+		<name>AsdfO///</name>
 		<address>adressinfo</address>
 		<zip>12 345</zip>
 		<city>asdadsadsa</city>
@@ -113,7 +113,7 @@
 	</lead>
 	<lead id="000011">
 		<name>AsdfO</name>
-		<address>adressinfo</address>
+		<address>%%%%%%</address>
 		<zip>12 345asdsad</zip>
 		<city>asdadsadsa</city>
 		<contact>Contact</contact>
@@ -121,5 +121,27 @@
 		<size>12321</size>
 		<current_provider>current_provider</current_provider>
 		<email>asdf@gmail.com</email>
+	</lead>
+	<lead id="000012">
+		<name>AsdfO</name>
+		<address>??????</address>
+		<zip>12 345asdsad</zip>
+		<city>asdadsadsa</city>
+		<contact>Contact</contact>
+		<tele>1234654</tele>
+		<size>123-21-asdasdsa</size>
+		<current_provider>current_provider</current_provider>
+		<email>asdf@.com</email>
+	</lead>
+	<lead id="000013">
+		<name>AsdfO</name>
+		<address>adressinfo</address>
+		<zip>12 345asdsad</zip>
+		<city>asdadsadsa</city>
+		<contact>Contact</contact>
+		<tele>1234654</tele>
+		<size>123-21-asdasdsa</size>
+		<current_provider>current_provider</current_provider>
+		<email>asdf@gmail.</email>
 	</lead>
 </leads>
